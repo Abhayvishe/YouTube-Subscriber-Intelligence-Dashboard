@@ -77,5 +77,5 @@ Aspiring Data Analyst | Power BI | SQL | Business Intelligence
 
 ---
 
-## 📌 Resume Keywords
+## 📌Skills Shown
 Power BI • DAX • Data Modeling • Dashboarding • Business Intelligence • Data Analysis • KPI Development • Analytics Storytelling
