@@ -73,7 +73,9 @@ This project demonstrates the ability to:
 
 ## 👤 Author
 **Abhay Vishe**  
-Aspiring Data Analyst | Power BI | SQL | Business Intelligence  
+Aspiring Data Analyst | Power BI | SQL | Business Intelligence
+
+📎 LinkedIn: https://www.linkedin.com/in/abhay-vishe
 
 ---
 
