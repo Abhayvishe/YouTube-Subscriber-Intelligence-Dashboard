@@ -1,5 +1,5 @@
 # YouTube-Subscriber-Intelligence-Dashboard
-End-to-end analytical dashboard delivering category, country, language, and channel-level subscriber insights using Power BI for strategic content intelligence.
+End-to-end analytical dashboard delivering category, country, language, and channel-level subscriber insights using Tableau for strategic content intelligence.
 
 
 # YouTube Subscriber Intelligence Dashboard
@@ -38,8 +38,8 @@ To analyze YouTube subscriber data across multiple dimensions and provide **stra
 ---
 
 ## 🛠️ Tools & Technologies
-- **Power BI** – Interactive dashboards & data modeling  
-- **DAX** – Measures, KPIs, aggregations  
+- **TableauI** – Interactive dashboards & data modeling  
+
 - **Power Query** – Data cleaning & transformation  
 - **Data Modeling** – Star schema principles  
 - **Data Visualization** – Business-focused storytelling
