@@ -39,7 +39,6 @@ To analyze YouTube subscriber data across multiple dimensions and provide **stra
 
 ## 🛠️ Tools & Technologies
 - **TableauI** – Interactive dashboards & data modeling  
-
 - **Power Query** – Data cleaning & transformation  
 - **Data Modeling** – Star schema principles  
 - **Data Visualization** – Business-focused storytelling
@@ -80,4 +79,4 @@ Aspiring Data Analyst | Power BI | SQL | Business Intelligence
 ---
 
 ## 📌Skills Shown
-Power BI • DAX • Data Modeling • Dashboarding • Business Intelligence • Data Analysis • KPI Development • Analytics Storytelling
+Tableau  • Data Modeling • Dashboarding • Business Intelligence • Data Analysis • KPI Development • Analytics Storytelling
