@@ -79,4 +79,4 @@ Aspiring Data Analyst | Power BI | SQL | Business Intelligence
 ---
 
 ## 📌Skills Shown
-Tableau  • Data Modeling • Dashboarding • Business Intelligence • Data Analysis  • Analytics Storytelling
+Tableau  • Data Modeling • Dashboarding • Business Intelligence • Data Analysis  • Analytics Storytelling.
